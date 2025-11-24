@@ -20,10 +20,8 @@
 `SQL`, `Python`, `Tableau`, `Grafana`, `ETL`, `Airflow`, `ML Models`, `Automation`
 
 ### 📫 Reach Me At
-**📩 Email:** supri...@gmail.com
+**📩 Email:** supriyammishra1@gmail.com
 
-### 📄 View My Resume
-🔗 https://drive.google.com/file/d/1UCrgYKQ3M3CUazKNyAk8r1Kk-1y9Wn4A/view
 
 ---
 
